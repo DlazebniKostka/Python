@@ -1,11 +1,11 @@
-##Horký pes!
+## Horký pes!
 
-#Je to tak.
+# Je to tak.
 
-#Obsah
+# Obsah
 - [obrazky](#obrazky)
 
 - ![image](https://github.com/user-attachments/assets/9cf5d836-e0ca-41b9-9640-728e49ee2159)
 
-#kódík
+# kódík
 ```print("Dobrá tedy, tento soubor je zbytečný.")```
