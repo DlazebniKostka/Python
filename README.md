@@ -1,5 +1,10 @@
-Nadpis1
+##Horký pes!
+#Je to tak.
 
-![image](https://github.com/user-attachments/assets/9cf5d836-e0ca-41b9-9640-728e49ee2159)
+#Obsah
+- [obrazky](#obrazky)
 
-Horký pes!
+- ![image](https://github.com/user-attachments/assets/9cf5d836-e0ca-41b9-9640-728e49ee2159)
+
+#kódík
+```print("Dobrá tedy, tento soubor je zbytečný.")```
